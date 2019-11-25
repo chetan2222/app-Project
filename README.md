@@ -1,10 +1,11 @@
 # app-project
-
+#first change 
 ## Project setup
 ```
 npm install
 ```
-
+#commint int
+git init
 ### Compiles and hot-reloads for development
 ```
 npm run serve
