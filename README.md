@@ -1,4 +1,4 @@
-# app-project 1..2..3
+# app-project
 #first change 
 #
 ## Project setup
